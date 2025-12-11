@@ -1,0 +1,4 @@
+touch yolo3.md
+echo "Test" > yolo3.md
+chmod 241 yolo3.md
+ls -l groupe-1.md yolo3.md
