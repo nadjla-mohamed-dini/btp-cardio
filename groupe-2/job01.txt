@@ -1,0 +1,3 @@
+whoami > whoami.txt
+ps | tail -n +2 > ps.txt
+stat -c %s ps.txt
