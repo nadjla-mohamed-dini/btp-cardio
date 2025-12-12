@@ -1,0 +1,6 @@
+mkdir test0
+touch test1
+echo "1234" > test1
+chmod 441 test1
+ln -s test0 test2
+ls -l test0 test1 test2 groupe-1.md
